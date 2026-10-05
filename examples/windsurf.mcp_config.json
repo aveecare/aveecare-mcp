@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "aveecare": {
+      "serverUrl": "https://app.aveecare.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:AVEECARE_API_KEY}"
+      }
+    }
+  }
+}

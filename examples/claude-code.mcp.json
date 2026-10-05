@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "aveecare": {
+      "type": "http",
+      "url": "https://app.aveecare.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${AVEECARE_API_KEY}"
+      }
+    }
+  }
+}

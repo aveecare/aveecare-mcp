@@ -1,0 +1,4 @@
+# Add to ~/.codex/config.toml. Export AVEECARE_API_KEY before starting Codex.
+[mcp_servers.aveecare]
+url = "https://app.aveecare.com/api/mcp"
+bearer_token_env_var = "AVEECARE_API_KEY"

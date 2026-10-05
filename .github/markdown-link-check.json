@@ -1,0 +1,7 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^https://github.com/aveecare/" },
+    { "pattern": "^https://www.aveecare.com/(developers|partners|docs)" }
+  ],
+  "aliveStatusCodes": [200, 206, 301, 302, 403, 429]
+}
